@@ -1,6 +1,6 @@
 <template>
   <div class="box attribution-box">
-    <a href="https://github.com/x8BitRain/webXash/">GitHub</a>
+    <a href="https://github.com/Annihilator544/halflife">GitHub</a>
     <a href="https://github.com/FWGS/xash3d-fwgs">Xash3D</a>
   </div>
 </template>
